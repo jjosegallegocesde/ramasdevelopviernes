@@ -11,4 +11,4 @@ print(resultado)
 sumar_numeros = lambda numero1,numero2: numero1+numero2
 
 resultado=sumar_numeros(1,2) # invocando la funcion
-print(resultado )
+print(resultado)
