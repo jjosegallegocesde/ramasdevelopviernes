@@ -1,4 +1,5 @@
 # Numero par
+
 def tradicional(numero):
     return numero%2==0
 print(tradicional(2))
