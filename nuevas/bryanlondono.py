@@ -10,3 +10,4 @@ SumarNumeros = lambda numero1,numero2:numero1+numero2
 
 resultado=SumarNumeros(1,2) #Invocando la funcion
 print(resultado)
+
