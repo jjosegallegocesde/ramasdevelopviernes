@@ -13,3 +13,7 @@ sumarNumeros = lambda numero3,numero4:numero3+numero4
 
 suma = sumarNumeros(2,3)#invocando la funcion
 print(suma)
+
+Saludar = lambda : print("Hola")
+
+Saludar()
